@@ -45,7 +45,7 @@ You can download from [Release](https://github.com/yichengchen/clashX/releases) 
 ## Config
 
 
-The default configuration directory is `$HOME/.config/clash`
+The default configuration directory is `$HOME/.config/clash.meta/`
 
 The default name of the configuration file is `config.yaml`. You can use your custom config name and switch config in menu `Config` section.
 
